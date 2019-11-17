@@ -7,11 +7,3 @@ Technologies used for the app:
 HTML CSS Bootstrap JavaScript jQuery. Firebase API for database hosting Moment.js
 
 Instructions: Enter the Train Name. Enter the Destination. Enter First Train Time -- in military time. Enter the Frequency -- in minutes. Then the code in the app will calculate using moment.js, how many more minutes are left and the time for the train to arrive, this will be relative to the current time.
-
-!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-app.js"></script>
-
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-analytics.js"></
-
