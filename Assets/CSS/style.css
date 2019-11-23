@@ -4,7 +4,6 @@
 
 .jumbotron {
     position : relative;
-    background : url("../images/train.jpg");
     background-position: 0% 55%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -48,8 +47,8 @@ p{
 
 #add-train{
     text-emphasis: none;
-    color:palevioletred;
-     background-color:whitesmoke;
+    color:darkmagenta;
+     background-color:none;     
 }
 
 .btn{
