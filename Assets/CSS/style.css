@@ -1,12 +1,14 @@
 .container{
     margin: 20px;
+    background-image: url("../Images/train.jpg");
+/* Cant see train image entirely behind everything but still add texture*/
+
 }
 
 .jumbotron {
     position : relative;
     background-position: 0% 55%;
     background-size: cover;
-    background-repeat: no-repeat;
     font-family:'Cairo', sans-serif;
     color: black
   }
