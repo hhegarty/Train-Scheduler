@@ -7,3 +7,5 @@ Technologies used for the app:
 HTML CSS Bootstrap JavaScript jQuery. Firebase API for database hosting Moment.js
 
 Instructions: Enter the Train Name. Enter the Destination. Enter First Train Time -- in military time. Enter the Frequency -- in minutes. Then the code in the app will calculate using moment.js, how many more minutes are left and the time for the train to arrive, this will be relative to the current time.
+
+https://hhegarty.github.io/Train-Scheduler/
